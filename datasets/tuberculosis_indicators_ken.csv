@@ -1,0 +1,767 @@
+Indicator,Year,Value
+Smear-positive tuberculosis case-detection rate (%),2000,53
+Smear-positive tuberculosis case-detection rate (%),2008,68
+Tuberculosis - new and relapse cases (TB_c_newinc),1991,12320
+Tuberculosis - new and relapse cases (TB_c_newinc),1992,14599
+Tuberculosis - new and relapse cases (TB_c_newinc),1994,22930
+Tuberculosis - new and relapse cases (TB_c_newinc),1995,28142
+Tuberculosis - new and relapse cases (TB_c_newinc),1997,39738
+Tuberculosis - new and relapse cases (TB_c_newinc),1998,48936
+Tuberculosis - new and relapse cases (TB_c_newinc),1999,57266
+Tuberculosis - new and relapse cases (TB_c_newinc),2000,64159
+Tuberculosis - new and relapse cases (TB_c_newinc),2001,73017
+Tuberculosis - new and relapse cases (TB_c_newinc),2002,80183
+Tuberculosis - new and relapse cases (TB_c_newinc),2003,91522
+Tuberculosis - new and relapse cases (TB_c_newinc),2005,102680
+Tuberculosis - new and relapse cases (TB_c_newinc),2006,108342
+Tuberculosis - new and relapse cases (TB_c_newinc),2008,99941
+Tuberculosis - new and relapse cases (TB_c_newinc),2009,102997
+Tuberculosis - new and relapse cases (TB_c_newinc),2011,97320
+Tuberculosis - new and relapse cases (TB_c_newinc),1990,11788
+Tuberculosis - new and relapse cases (TB_c_newinc),1993,20451
+Tuberculosis - new and relapse cases (TB_c_newinc),1996,34980
+Tuberculosis - new and relapse cases (TB_c_newinc),2004,100573
+Tuberculosis - new and relapse cases (TB_c_newinc),2007,106438
+Tuberculosis - new and relapse cases (TB_c_newinc),2010,99272
+New cases: pulmonary smear-negative,1995,9676
+New cases: pulmonary smear-negative,1997,14340
+New cases: pulmonary smear-negative,1998,17487
+New cases: pulmonary smear-negative,1999,20667
+New cases: pulmonary smear-negative,2000,24143
+New cases: pulmonary smear-negative,2001,28097
+New cases: pulmonary smear-negative,2002,31765
+New cases: pulmonary smear-negative,2003,37135
+New cases: pulmonary smear-negative,2005,43772
+New cases: pulmonary smear-negative,2006,42686
+New cases: pulmonary smear-negative,2008,35232
+New cases: pulmonary smear-negative,2009,32787
+New cases: pulmonary smear-negative,2011,30394
+New cases: pulmonary smear-negative,2012,28574
+New cases: pulmonary smear-negative,1996,11946
+New cases: pulmonary smear-negative,2004,41220
+New cases: pulmonary smear-negative,2007,42852
+New cases: pulmonary smear-negative,2010,31842
+New cases: pulmonary smear unknown/not done,2000,0
+New cases: pulmonary smear unknown/not done,2001,0
+New cases: pulmonary smear unknown/not done,2006,5652
+New cases: pulmonary smear unknown/not done,2008,10883
+New cases: pulmonary smear unknown/not done,2009,11727
+New cases: pulmonary smear unknown/not done,2011,9416
+New cases: pulmonary smear unknown/not done,2012,8123
+New cases: pulmonary smear unknown/not done,2004,0
+New cases: pulmonary smear unknown/not done,2007,7017
+New cases: pulmonary smear unknown/not done,2010,10120
+New cases: other,2008,0
+New cases: other,2011,0
+New cases: other,2012,0
+New cases: other,2007,0
+New cases: other,2010,0
+Retreatment cases: treatment after failure (pulmonary smear and/or culture positive),1997,65
+Retreatment cases: treatment after failure (pulmonary smear and/or culture positive),1998,44
+Retreatment cases: treatment after failure (pulmonary smear and/or culture positive),1999,52
+Retreatment cases: treatment after failure (pulmonary smear and/or culture positive),2000,35
+Retreatment cases: treatment after failure (pulmonary smear and/or culture positive),2001,50
+Retreatment cases: treatment after failure (pulmonary smear and/or culture positive),2003,104
+Retreatment cases: treatment after failure (pulmonary smear and/or culture positive),2005,81
+Retreatment cases: treatment after failure (pulmonary smear and/or culture positive),2006,121
+Retreatment cases: treatment after failure (pulmonary smear and/or culture positive),2008,3225
+Retreatment cases: treatment after failure (pulmonary smear and/or culture positive),2009,182
+Retreatment cases: treatment after failure (pulmonary smear and/or culture positive),2011,263
+Retreatment cases: treatment after failure (pulmonary smear and/or culture positive),2012,326
+Retreatment cases: treatment after failure (pulmonary smear and/or culture positive),2004,72
+Retreatment cases: treatment after failure (pulmonary smear and/or culture positive),2007,3285
+Retreatment cases: treatment after failure (pulmonary smear and/or culture positive),2010,245
+Retreatment cases: treatment after default (pulmonary smear and/or culture positive),1997,242
+Retreatment cases: treatment after default (pulmonary smear and/or culture positive),1998,433
+Retreatment cases: treatment after default (pulmonary smear and/or culture positive),1999,368
+Retreatment cases: treatment after default (pulmonary smear and/or culture positive),2000,317
+Retreatment cases: treatment after default (pulmonary smear and/or culture positive),2001,546
+Retreatment cases: treatment after default (pulmonary smear and/or culture positive),2003,1023
+Retreatment cases: treatment after default (pulmonary smear and/or culture positive),2005,1278
+Retreatment cases: treatment after default (pulmonary smear and/or culture positive),2006,1657
+Retreatment cases: treatment after default (pulmonary smear and/or culture positive),2008,1989
+Retreatment cases: treatment after default (pulmonary smear and/or culture positive),2012,1408
+Retreatment cases: treatment after default (pulmonary smear and/or culture positive),2004,1174
+Retreatment cases: treatment after default (pulmonary smear and/or culture positive),2007,1841
+Retreatment cases: treatment after default (pulmonary smear and/or culture positive),2010,1502
+Retreatment cases: other,1997,307
+Retreatment cases: other,1998,477
+Retreatment cases: other,1999,420
+Retreatment cases: other,2000,352
+Retreatment cases: other,2001,596
+Retreatment cases: other,2002,1931
+Retreatment cases: other,2005,4362
+Retreatment cases: other,2006,5114
+Retreatment cases: other,2008,5096
+Retreatment cases: other,2009,6886
+Retreatment cases: other,2011,6398
+Retreatment cases: other,2012,4428
+Retreatment cases: other,2004,3999
+Retreatment cases: other,2007,5159
+Retreatment cases: other,2010,5064
+Smear-positive tuberculosis treatment-success rate (%),1994,73
+Smear-positive tuberculosis treatment-success rate (%),1995,75
+Smear-positive tuberculosis treatment-success rate (%),1996,77
+Smear-positive tuberculosis treatment-success rate (%),1997,65
+Smear-positive tuberculosis treatment-success rate (%),1998,77
+Smear-positive tuberculosis treatment-success rate (%),1999,79
+Smear-positive tuberculosis treatment-success rate (%),2000,80
+Smear-positive tuberculosis treatment-success rate (%),2001,80
+Smear-positive tuberculosis treatment-success rate (%),2002,79
+Smear-positive tuberculosis treatment-success rate (%),2003,80
+Smear-positive tuberculosis treatment-success rate (%),2004,80
+Smear-positive tuberculosis treatment-success rate (%),2005,82
+Smear-positive tuberculosis treatment-success rate (%),2006,85
+Smear-positive tuberculosis treatment-success rate (%),2007,85
+Smear-positive tuberculosis treatment-success rate (%),2008,85
+Smear-positive tuberculosis treatment-success rate (%),2009,86
+Smear-positive tuberculosis treatment-success rate (%),2010,87
+Smear-positive tuberculosis treatment-success rate (%),2011,88
+Treatment success rate for new pulmonary smear-negative and extrapulmonary tuberculosis cases,2004,74
+Treatment success rate for new pulmonary smear-negative and extrapulmonary tuberculosis cases,2005,80
+Treatment success rate for new pulmonary smear-negative and extrapulmonary tuberculosis cases,2006,81
+Treatment success rate for new pulmonary smear-negative and extrapulmonary tuberculosis cases,2007,82
+Treatment success rate for new pulmonary smear-negative and extrapulmonary tuberculosis cases,2008,83
+Treatment success rate for new pulmonary smear-negative and extrapulmonary tuberculosis cases,2009,82
+Treatment success rate for new pulmonary smear-negative and extrapulmonary tuberculosis cases,2010,85
+Treatment success rate for new pulmonary smear-negative and extrapulmonary tuberculosis cases,2011,85
+Confirmed cases of MDR-TB,2005,44
+Confirmed cases of MDR-TB,2006,89
+Confirmed cases of MDR-TB,2007,82
+Confirmed cases of MDR-TB,2008,102
+Confirmed cases of MDR-TB,2009,150
+Confirmed cases of MDR-TB,2010,112
+Confirmed cases of MDR-TB,2011,166
+Confirmed cases of MDR-TB,2012,225
+Confirmed cases of MDR-TB started treatment for MDR-TB (%),2008,27
+Confirmed cases of MDR-TB started treatment for MDR-TB (%),2009,93
+Confirmed cases of MDR-TB started treatment for MDR-TB (%),2010,105
+Confirmed cases of MDR-TB started treatment for MDR-TB (%),2011,94
+Confirmed cases of MDR-TB started treatment for MDR-TB (%),2012,86
+Estimated MDR-TB cases among notified pulmonary TB cases,2014,2500
+Number of prevalent tuberculosis cases,1990,41000
+Number of prevalent tuberculosis cases,1991,38000
+Number of prevalent tuberculosis cases,1992,35000
+Number of prevalent tuberculosis cases,1993,34000
+Number of prevalent tuberculosis cases,1994,35000
+Number of prevalent tuberculosis cases,1995,37000
+Number of prevalent tuberculosis cases,1996,42000
+Number of prevalent tuberculosis cases,1997,48000
+Number of prevalent tuberculosis cases,1998,55000
+Number of prevalent tuberculosis cases,1999,64000
+Number of prevalent tuberculosis cases,2000,72000
+Number of prevalent tuberculosis cases,2001,82000
+Number of prevalent tuberculosis cases,2002,91000
+Number of prevalent tuberculosis cases,2003,100000
+Number of prevalent tuberculosis cases,2004,110000
+Number of prevalent tuberculosis cases,2005,110000
+Number of prevalent tuberculosis cases,2006,110000
+Number of prevalent tuberculosis cases,2007,120000
+Number of prevalent tuberculosis cases,2008,120000
+Number of prevalent tuberculosis cases,2009,110000
+Number of prevalent tuberculosis cases,2010,110000
+Number of prevalent tuberculosis cases,2011,110000
+Number of prevalent tuberculosis cases,2012,120000
+Number of prevalent tuberculosis cases,2013,120000
+Number of prevalent tuberculosis cases,2014,120000
+HIV-positive TB patients on CPT (co-trimoxazole preventive therapy) (%),2005,44
+HIV-positive TB patients on CPT (co-trimoxazole preventive therapy) (%),2006,140
+HIV-positive TB patients on CPT (co-trimoxazole preventive therapy) (%),2007,93
+HIV-positive TB patients on CPT (co-trimoxazole preventive therapy) (%),2008,92
+HIV-positive TB patients on CPT (co-trimoxazole preventive therapy) (%),2009,92
+HIV-positive TB patients on CPT (co-trimoxazole preventive therapy) (%),2010,100
+HIV-positive TB patients on CPT (co-trimoxazole preventive therapy) (%),2011,97
+HIV-positive TB patients on CPT (co-trimoxazole preventive therapy) (%),2012,99
+HIV-positive TB patients on CPT (co-trimoxazole preventive therapy) (%),2013,99
+HIV-positive TB patients on CPT (co-trimoxazole preventive therapy) (%),2014,99
+Second-line drug susceptibility testing (DST) available,2007,
+Second-line drug susceptibility testing (DST) available,2008,
+Second-line drug susceptibility testing (DST) available,2009,
+Second-line drug susceptibility testing (DST) available,2010,
+Second-line drug susceptibility testing (DST) available,2011,
+Second-line drug susceptibility testing (DST) available,2012,
+Second-line drug susceptibility testing (DST) available,2013,
+Second-line drug susceptibility testing (DST) available,2014,
+Laboratories providing drug susceptibility testing (DST) (per 5 million population),2011,0.1
+Laboratories providing drug susceptibility testing (DST) (per 5 million population),2007,0.1
+Laboratories providing drug susceptibility testing (DST) (per 5 million population),2008,0.1
+Laboratories providing tuberculosis diagnostic services using culture (per 5 million population),2012,0.2
+Laboratories providing drug susceptibility testing (DST) (per 5 million population),2012,0.2
+Laboratories providing drug susceptibility testing (DST) (per 5 million population),2006,0.3
+Laboratories providing drug susceptibility testing (DST) (per 5 million population),2014,0.3
+Laboratories providing tuberculosis diagnostic services using culture (per 5 million population),2006,0.3
+Laboratories providing tuberculosis diagnostic services using culture (per 5 million population),2014,0.3
+Laboratories providing tuberculosis diagnostic services using culture (per 5 million population),2005,0.4
+Laboratories providing drug susceptibility testing (DST) (per 5 million population),2005,0.4
+Laboratories providing drug susceptibility testing (DST) (per 5 million population),2010,0.5
+Laboratories providing drug susceptibility testing (DST) (per 5 million population),2009,0.5
+Laboratories providing drug susceptibility testing (DST) (per 5 million population),2013,0.7
+Laboratories providing tuberculosis diagnostic services using culture (per 5 million population),2007,0.7
+Laboratories providing tuberculosis diagnostic services using culture (per 5 million population),2008,0.7
+Laboratories providing tuberculosis diagnostic services using culture (per 5 million population),2010,0.7
+Laboratories providing tuberculosis diagnostic services using culture (per 5 million population),2011,0.7
+Laboratories providing tuberculosis diagnostic services using culture (per 5 million population),2013,0.8
+Laboratories providing tuberculosis diagnostic services using culture (per 5 million population),2009,0.8
+Laboratories providing tuberculosis diagnostic services using sputum smear microscopy (per 100 000 population),2005,1.8
+Laboratories providing tuberculosis diagnostic services using sputum smear microscopy (per 100 000 population),2006,2.1
+Laboratories providing tuberculosis diagnostic services using sputum smear microscopy (per 100 000 population),2008,2.4
+Laboratories providing tuberculosis diagnostic services using sputum smear microscopy (per 100 000 population),2007,2.5
+Laboratories providing tuberculosis diagnostic services using sputum smear microscopy (per 100 000 population),2009,3
+Laboratories providing tuberculosis diagnostic services using sputum smear microscopy (per 100 000 population),2010,3.3
+Laboratories providing tuberculosis diagnostic services using sputum smear microscopy (per 100 000 population),2011,3.8
+Laboratories providing tuberculosis diagnostic services using sputum smear microscopy (per 100 000 population),2013,4.3
+Laboratories providing tuberculosis diagnostic services using sputum smear microscopy (per 100 000 population),2012,4.3
+Laboratories providing tuberculosis diagnostic services using sputum smear microscopy (per 100 000 population),2014,4.3
+Total number of notified TB cases,2014,89294
+Total number of notified TB cases,2013,89796
+Total number of notified TB cases,2012,99149
+Total number of notified TB cases,2011,103981
+Total number of notified TB cases,2010,106083
+Total number of notified TB cases,2009,110065
+Total number of notified TB cases,2008,110251
+Total number of notified TB cases,2007,116723
+Total number of notified TB cases,2006,115234
+Total number of notified TB cases,2005,108401
+Total number of notified TB cases,2004,105818
+Total number of notified TB cases,2003,95310
+Tuberculosis effective treatment coverage (%),1999,35.6
+Tuberculosis effective treatment coverage (%),2000,36
+Tuberculosis effective treatment coverage (%),2001,36
+Tuberculosis effective treatment coverage (%),2002,35.6
+Tuberculosis effective treatment coverage (%),2003,36
+Tuberculosis effective treatment coverage (%),2004,34.7
+Tuberculosis effective treatment coverage (%),2005,36.5
+Tuberculosis effective treatment coverage (%),2006,37.4
+Tuberculosis effective treatment coverage (%),2007,37.4
+Tuberculosis effective treatment coverage (%),2008,37.8
+Tuberculosis effective treatment coverage (%),2009,37.8
+Tuberculosis effective treatment coverage (%),2010,38.7
+Tuberculosis effective treatment coverage (%),2011,39.2
+Tuberculosis effective treatment coverage (%),2012,38.7
+Tuberculosis effective treatment coverage (%),2013,38.7
+Tuberculosis effective treatment coverage (%),2014,39.2
+Tuberculosis effective treatment coverage (%),2015,39.2
+Tuberculosis effective treatment coverage (%),2016,42.1
+Tuberculosis effective treatment coverage (%),2017,52.3
+Treatment success rate: new TB cases,1995,75
+Treatment success rate: new TB cases,1996,77
+Treatment success rate: new TB cases,1997,65
+Treatment success rate: new TB cases,1998,77
+Treatment success rate: new TB cases,1999,79
+Treatment success rate: new TB cases,2000,80
+Treatment success rate: new TB cases,2001,80
+Treatment success rate: new TB cases,2002,79
+Treatment success rate: new TB cases,2003,80
+Treatment success rate: new TB cases,2004,77
+Treatment success rate: new TB cases,2005,81
+Treatment success rate: new TB cases,2006,83
+Treatment success rate: new TB cases,2007,83
+Treatment success rate: new TB cases,2008,84
+Treatment success rate: new TB cases,2009,84
+Treatment success rate: new TB cases,2010,86
+Treatment success rate: new TB cases,2011,87
+Treatment success rate: new TB cases,2012,86
+Treatment success rate: new TB cases,2013,86
+Treatment success rate: new TB cases,2014,87
+Treatment success rate: new TB cases,2015,87
+Treatment success rate: new TB cases,2016,81
+Treatment success rate: new TB cases,2017,83
+Treatment success rate: new TB cases,2018,84
+Treatment success rate: new TB cases,2019,86
+Treatment success rate: new TB cases,2020,85
+Treatment success rate: previously treated TB cases,1995,72
+Treatment success rate: previously treated TB cases,1996,59
+Treatment success rate: previously treated TB cases,1997,55
+Treatment success rate: previously treated TB cases,1998,64
+Treatment success rate: previously treated TB cases,1999,74
+Treatment success rate: previously treated TB cases,2000,76
+Treatment success rate: previously treated TB cases,2001,77
+Treatment success rate: previously treated TB cases,2002,77
+Treatment success rate: previously treated TB cases,2003,75
+Treatment success rate: previously treated TB cases,2004,76
+Treatment success rate: previously treated TB cases,2005,77
+Treatment success rate: previously treated TB cases,2006,79
+Treatment success rate: previously treated TB cases,2007,80
+Treatment success rate: previously treated TB cases,2008,72
+Treatment success rate: previously treated TB cases,2009,78
+Treatment success rate: previously treated TB cases,2010,79
+Treatment success rate: previously treated TB cases,2011,82
+Treatment success rate: previously treated TB cases,2012,78
+Treatment success rate: previously treated TB cases,2013,78
+Treatment success rate: previously treated TB cases,2014,78
+Treatment success rate: previously treated TB cases,2015,83
+Treatment success rate: previously treated TB cases,2016,70
+Treatment success rate: previously treated TB cases,2017,72
+Treatment success rate: previously treated TB cases,2018,72
+Treatment success rate: previously treated TB cases,2019,73
+Treatment success rate: previously treated TB cases,2020,72
+Treatment success rate: HIV-positive TB cases,2007,81
+Treatment success rate: HIV-positive TB cases,2008,81
+Treatment success rate: HIV-positive TB cases,2009,82
+Treatment success rate: HIV-positive TB cases,2010,82
+Treatment success rate: HIV-positive TB cases,2011,82
+Treatment success rate: HIV-positive TB cases,2012,83
+Treatment success rate: HIV-positive TB cases,2013,79
+Treatment success rate: HIV-positive TB cases,2014,82
+Treatment success rate: HIV-positive TB cases,2015,82
+Treatment success rate: HIV-positive TB cases,2016,77
+Treatment success rate: HIV-positive TB cases,2017,78
+Treatment success rate: HIV-positive TB cases,2018,79
+Treatment success rate: HIV-positive TB cases,2019,80
+Treatment success rate: HIV-positive TB cases,2020,80
+Treatment success rate for patients treated for MDR-TB (%),2006,100
+Treatment success rate for patients treated for MDR-TB (%),2007,69
+Treatment success rate for patients treated for MDR-TB (%),2008,61
+Treatment success rate for patients treated for MDR-TB (%),2009,69
+Treatment success rate for patients treated for MDR-TB (%),2010,82
+Treatment success rate for patients treated for MDR-TB (%),2011,70
+Treatment success rate for patients treated for MDR-TB (%),2012,83
+Treatment success rate for patients treated for MDR-TB (%),2013,82
+Treatment success rate for patients treated for MDR-TB (%),2014,72
+Treatment success rate for patients treated for MDR-TB (%),2015,73
+Treatment success rate for patients treated for MDR-TB (%),2016,68
+Treatment success rate for patients treated for MDR-TB (%),2017,70
+Treatment success rate for patients treated for MDR-TB (%),2018,74
+Treatment success rate for patients treated for MDR-TB (%),2019,73
+Treatment success rate: XDR-TB cases,2009,0
+Treatment success rate: XDR-TB cases,2010,0
+Treatment success rate: XDR-TB cases,2013,0
+Treatment success rate: XDR-TB cases,2014,100
+Treatment success rate: XDR-TB cases,2015,100
+Treatment success rate: XDR-TB cases,2017,0
+Treatment success rate: XDR-TB cases,2018,100
+Treatment success rate: XDR-TB cases,2019,56
+Confirmed cases of RR-/MDR-TB,2005,44
+Confirmed cases of RR-/MDR-TB,2006,89
+Confirmed cases of RR-/MDR-TB,2007,82
+Confirmed cases of RR-/MDR-TB,2008,102
+Confirmed cases of RR-/MDR-TB,2009,184
+Confirmed cases of RR-/MDR-TB,2010,249
+Confirmed cases of RR-/MDR-TB,2011,392
+Confirmed cases of RR-/MDR-TB,2012,260
+Confirmed cases of RR-/MDR-TB,2013,160
+Confirmed cases of RR-/MDR-TB,2014,644
+Confirmed cases of RR-/MDR-TB,2015,368
+Confirmed cases of RR-/MDR-TB,2016,308
+Confirmed cases of RR-/MDR-TB,2017,390
+Confirmed cases of RR-/MDR-TB,2018,465
+Confirmed cases of RR-/MDR-TB,2019,507
+Confirmed cases of RR-/MDR-TB,2020,589
+Confirmed cases of RR-/MDR-TB,2021,470
+Cases started on MDR-TB treatment,2008,28
+Cases started on MDR-TB treatment,2009,140
+Cases started on MDR-TB treatment,2010,118
+Cases started on MDR-TB treatment,2011,156
+Cases started on MDR-TB treatment,2012,202
+Cases started on MDR-TB treatment,2013,290
+Cases started on MDR-TB treatment,2014,544
+Cases started on MDR-TB treatment,2015,368
+Cases started on MDR-TB treatment,2016,308
+Cases started on MDR-TB treatment,2017,394
+Cases started on MDR-TB treatment,2018,470
+Cases started on MDR-TB treatment,2019,686
+Cases started on MDR-TB treatment,2020,601
+Cases started on MDR-TB treatment,2021,486
+Previously treated cases tested for RR-/MDR-TB (%),2005,20
+Previously treated cases tested for RR-/MDR-TB (%),2006,10
+Previously treated cases tested for RR-/MDR-TB (%),2007,42
+Previously treated cases tested for RR-/MDR-TB (%),2008,48
+Previously treated cases tested for RR-/MDR-TB (%),2009,18
+Previously treated cases tested for RR-/MDR-TB (%),2010,6.7
+Previously treated cases tested for RR-/MDR-TB (%),2011,12
+Previously treated cases tested for RR-/MDR-TB (%),2012,13
+Previously treated cases tested for RR-/MDR-TB (%),2013,22
+Previously treated cases tested for RR-/MDR-TB (%),2014,85
+Previously treated cases tested for RR-/MDR-TB (%),2015,40
+Previously treated cases tested for RR-/MDR-TB (%),2016,42
+Previously treated cases tested for RR-/MDR-TB (%),2017,52
+Previously treated cases tested for RR-/MDR-TB (%),2018,79
+Previously treated cases tested for RR-/MDR-TB (%),2019,86
+Previously treated cases tested for RR-/MDR-TB (%),2020,92
+Previously treated cases tested for RR-/MDR-TB (%),2021,73
+New cases tested for RR-/MDR-TB (%),2005,0
+New cases tested for RR-/MDR-TB (%),2006,0
+New cases tested for RR-/MDR-TB (%),2007,0
+New cases tested for RR-/MDR-TB (%),2008,0
+New cases tested for RR-/MDR-TB (%),2009,0
+New cases tested for RR-/MDR-TB (%),2011,0.25
+New cases tested for RR-/MDR-TB (%),2012,0.25
+New cases tested for RR-/MDR-TB (%),2013,0.37
+New cases tested for RR-/MDR-TB (%),2014,50
+New cases tested for RR-/MDR-TB (%),2015,16
+New cases tested for RR-/MDR-TB (%),2016,45
+New cases tested for RR-/MDR-TB (%),2017,83
+New cases tested for RR-/MDR-TB (%),2018,64
+New cases tested for RR-/MDR-TB (%),2019,76
+New cases tested for RR-/MDR-TB (%),2020,85
+New cases tested for RR-/MDR-TB (%),2021,63
+TB patients with known HIV status (%),2004,19
+TB patients with known HIV status (%),2005,14
+TB patients with known HIV status (%),2006,60
+TB patients with known HIV status (%),2007,79
+TB patients with known HIV status (%),2008,83
+TB patients with known HIV status (%),2009,88
+TB patients with known HIV status (%),2010,91
+TB patients with known HIV status (%),2011,93
+TB patients with known HIV status (%),2012,95
+TB patients with known HIV status (%),2013,94
+TB patients with known HIV status (%),2014,95
+TB patients with known HIV status (%),2015,97
+TB patients with known HIV status (%),2016,96
+TB patients with known HIV status (%),2017,96
+TB patients with known HIV status (%),2018,98
+TB patients with known HIV status (%),2019,98
+TB patients with known HIV status (%),2020,99
+TB patients with known HIV status (%),2021,97
+Tested TB patients HIV-positive (%),2004,60
+Tested TB patients HIV-positive (%),2005,57
+Tested TB patients HIV-positive (%),2006,52
+Tested TB patients HIV-positive (%),2007,48
+Tested TB patients HIV-positive (%),2008,45
+Tested TB patients HIV-positive (%),2009,44
+Tested TB patients HIV-positive (%),2010,41
+Tested TB patients HIV-positive (%),2011,39
+Tested TB patients HIV-positive (%),2012,38
+Tested TB patients HIV-positive (%),2013,37
+Tested TB patients HIV-positive (%),2014,36
+Tested TB patients HIV-positive (%),2015,33
+Tested TB patients HIV-positive (%),2016,31
+Tested TB patients HIV-positive (%),2017,29
+Tested TB patients HIV-positive (%),2018,27
+Tested TB patients HIV-positive (%),2019,26
+Tested TB patients HIV-positive (%),2020,25
+Tested TB patients HIV-positive (%),2021,24
+HIV-positive TB patients on ART (antiretroviral therapy) (%),2005,17
+HIV-positive TB patients on ART (antiretroviral therapy) (%),2006,43
+HIV-positive TB patients on ART (antiretroviral therapy) (%),2007,37
+HIV-positive TB patients on ART (antiretroviral therapy) (%),2008,30
+HIV-positive TB patients on ART (antiretroviral therapy) (%),2009,34
+HIV-positive TB patients on ART (antiretroviral therapy) (%),2010,48
+HIV-positive TB patients on ART (antiretroviral therapy) (%),2011,64
+HIV-positive TB patients on ART (antiretroviral therapy) (%),2012,89
+HIV-positive TB patients on ART (antiretroviral therapy) (%),2013,86
+HIV-positive TB patients on ART (antiretroviral therapy) (%),2014,87
+HIV-positive TB patients on ART (antiretroviral therapy) (%),2015,95
+HIV-positive TB patients on ART (antiretroviral therapy) (%),2016,95
+HIV-positive TB patients on ART (antiretroviral therapy) (%),2017,95
+HIV-positive TB patients on ART (antiretroviral therapy) (%),2018,97
+HIV-positive TB patients on ART (antiretroviral therapy) (%),2019,97
+HIV-positive TB patients on ART (antiretroviral therapy) (%),2020,97
+HIV-positive TB patients on ART (antiretroviral therapy) (%),2021,96
+Estimated number of MDR/RR-TB incident cases,2015,2100
+Estimated number of MDR/RR-TB incident cases,2016,1900
+Estimated number of MDR/RR-TB incident cases,2017,1800
+Estimated number of MDR/RR-TB incident cases,2018,1600
+Estimated number of MDR/RR-TB incident cases,2019,1500
+Estimated number of MDR/RR-TB incident cases,2020,1400
+Estimated number of MDR/RR-TB incident cases,2021,1400
+"Number of deaths due to tuberculosis, excluding HIV",2015,30000
+"Number of deaths due to tuberculosis, excluding HIV",2016,29000
+"Number of deaths due to tuberculosis, excluding HIV",2017,25000
+"Number of deaths due to tuberculosis, excluding HIV",2018,19000
+"Number of deaths due to tuberculosis, excluding HIV",2019,19000
+"Number of deaths due to tuberculosis, excluding HIV",2020,20000
+"Number of deaths due to tuberculosis, excluding HIV",2021,20000
+"Number of deaths due to tuberculosis, excluding HIV",2000,13000
+"Number of deaths due to tuberculosis, excluding HIV",2001,17000
+"Number of deaths due to tuberculosis, excluding HIV",2002,20000
+"Number of deaths due to tuberculosis, excluding HIV",2003,25000
+"Number of deaths due to tuberculosis, excluding HIV",2004,27000
+"Number of deaths due to tuberculosis, excluding HIV",2005,27000
+"Number of deaths due to tuberculosis, excluding HIV",2006,29000
+"Number of deaths due to tuberculosis, excluding HIV",2007,31000
+"Number of deaths due to tuberculosis, excluding HIV",2008,31000
+"Number of deaths due to tuberculosis, excluding HIV",2009,32000
+"Number of deaths due to tuberculosis, excluding HIV",2010,33000
+"Number of deaths due to tuberculosis, excluding HIV",2011,33000
+"Number of deaths due to tuberculosis, excluding HIV",2012,32000
+"Number of deaths due to tuberculosis, excluding HIV",2013,31000
+"Number of deaths due to tuberculosis, excluding HIV",2014,31000
+Deaths due to tuberculosis among HIV-negative people (per 100 000 population),2015,64
+Deaths due to tuberculosis among HIV-negative people (per 100 000 population),2016,60
+Deaths due to tuberculosis among HIV-negative people (per 100 000 population),2017,50
+Deaths due to tuberculosis among HIV-negative people (per 100 000 population),2018,38
+Deaths due to tuberculosis among HIV-negative people (per 100 000 population),2019,37
+Deaths due to tuberculosis among HIV-negative people (per 100 000 population),2020,38
+Deaths due to tuberculosis among HIV-negative people (per 100 000 population),2021,39
+Deaths due to tuberculosis among HIV-negative people (per 100 000 population),2000,41
+Deaths due to tuberculosis among HIV-negative people (per 100 000 population),2001,52
+Deaths due to tuberculosis among HIV-negative people (per 100 000 population),2002,61
+Deaths due to tuberculosis among HIV-negative people (per 100 000 population),2003,73
+Deaths due to tuberculosis among HIV-negative people (per 100 000 population),2004,78
+Deaths due to tuberculosis among HIV-negative people (per 100 000 population),2005,77
+Deaths due to tuberculosis among HIV-negative people (per 100 000 population),2006,78
+Deaths due to tuberculosis among HIV-negative people (per 100 000 population),2007,81
+Deaths due to tuberculosis among HIV-negative people (per 100 000 population),2008,78
+Deaths due to tuberculosis among HIV-negative people (per 100 000 population),2009,80
+Deaths due to tuberculosis among HIV-negative people (per 100 000 population),2010,79
+Deaths due to tuberculosis among HIV-negative people (per 100 000 population),2011,77
+Deaths due to tuberculosis among HIV-negative people (per 100 000 population),2012,74
+Deaths due to tuberculosis among HIV-negative people (per 100 000 population),2013,70
+Deaths due to tuberculosis among HIV-negative people (per 100 000 population),2014,69
+Number of incident tuberculosis cases,2015,178000
+Number of incident tuberculosis cases,2016,167000
+Number of incident tuberculosis cases,2017,156000
+Number of incident tuberculosis cases,2018,146000
+Number of incident tuberculosis cases,2019,136000
+Number of incident tuberculosis cases,2020,130000
+Number of incident tuberculosis cases,2021,133000
+Number of incident tuberculosis cases,2000,139000
+Number of incident tuberculosis cases,2001,159000
+Number of incident tuberculosis cases,2002,175000
+Number of incident tuberculosis cases,2003,206000
+Number of incident tuberculosis cases,2004,221000
+Number of incident tuberculosis cases,2005,226000
+Number of incident tuberculosis cases,2006,239000
+Number of incident tuberculosis cases,2007,235000
+Number of incident tuberculosis cases,2008,221000
+Number of incident tuberculosis cases,2009,228000
+Number of incident tuberculosis cases,2010,220000
+Number of incident tuberculosis cases,2011,216000
+Number of incident tuberculosis cases,2012,206000
+Number of incident tuberculosis cases,2013,198000
+Number of incident tuberculosis cases,2014,194000
+Incidence of tuberculosis (per 100 000 population per year),2015,380
+Incidence of tuberculosis (per 100 000 population per year),2016,348
+Incidence of tuberculosis (per 100 000 population per year),2017,319
+Incidence of tuberculosis (per 100 000 population per year),2018,292
+Incidence of tuberculosis (per 100 000 population per year),2019,267
+Incidence of tuberculosis (per 100 000 population per year),2020,250
+Incidence of tuberculosis (per 100 000 population per year),2021,251
+Incidence of tuberculosis (per 100 000 population per year),2000,451
+Incidence of tuberculosis (per 100 000 population per year),2001,499
+Incidence of tuberculosis (per 100 000 population per year),2002,534
+Incidence of tuberculosis (per 100 000 population per year),2003,610
+Incidence of tuberculosis (per 100 000 population per year),2004,634
+Incidence of tuberculosis (per 100 000 population per year),2005,630
+Incidence of tuberculosis (per 100 000 population per year),2006,646
+Incidence of tuberculosis (per 100 000 population per year),2007,618
+Incidence of tuberculosis (per 100 000 population per year),2008,564
+Incidence of tuberculosis (per 100 000 population per year),2009,566
+Incidence of tuberculosis (per 100 000 population per year),2010,531
+Incidence of tuberculosis (per 100 000 population per year),2011,506
+Incidence of tuberculosis (per 100 000 population per year),2012,471
+Incidence of tuberculosis (per 100 000 population per year),2013,443
+Incidence of tuberculosis (per 100 000 population per year),2014,423
+Incidence of tuberculosis (per 100 000 population) (HIV-positive cases),2015,126
+Incidence of tuberculosis (per 100 000 population) (HIV-positive cases),2016,109
+Incidence of tuberculosis (per 100 000 population) (HIV-positive cases),2017,91
+Incidence of tuberculosis (per 100 000 population) (HIV-positive cases),2018,79
+Incidence of tuberculosis (per 100 000 population) (HIV-positive cases),2019,70
+Incidence of tuberculosis (per 100 000 population) (HIV-positive cases),2020,60
+Incidence of tuberculosis (per 100 000 population) (HIV-positive cases),2021,60
+Incidence of tuberculosis (per 100 000 population) (HIV-positive cases),2000,309
+Incidence of tuberculosis (per 100 000 population) (HIV-positive cases),2001,310
+Incidence of tuberculosis (per 100 000 population) (HIV-positive cases),2002,306
+Incidence of tuberculosis (per 100 000 population) (HIV-positive cases),2003,329
+Incidence of tuberculosis (per 100 000 population) (HIV-positive cases),2004,329
+Incidence of tuberculosis (per 100 000 population) (HIV-positive cases),2005,325
+Incidence of tuberculosis (per 100 000 population) (HIV-positive cases),2006,337
+Incidence of tuberculosis (per 100 000 population) (HIV-positive cases),2007,296
+Incidence of tuberculosis (per 100 000 population) (HIV-positive cases),2008,254
+Incidence of tuberculosis (per 100 000 population) (HIV-positive cases),2009,249
+Incidence of tuberculosis (per 100 000 population) (HIV-positive cases),2010,218
+Incidence of tuberculosis (per 100 000 population) (HIV-positive cases),2011,199
+Incidence of tuberculosis (per 100 000 population) (HIV-positive cases),2012,179
+Incidence of tuberculosis (per 100 000 population) (HIV-positive cases),2013,166
+Incidence of tuberculosis (per 100 000 population) (HIV-positive cases),2014,150
+"Number of incident tuberculosis cases,  (HIV-positive cases)",2015,59000
+"Number of incident tuberculosis cases,  (HIV-positive cases)",2016,52000
+"Number of incident tuberculosis cases,  (HIV-positive cases)",2017,45000
+"Number of incident tuberculosis cases,  (HIV-positive cases)",2018,39000
+"Number of incident tuberculosis cases,  (HIV-positive cases)",2019,36000
+"Number of incident tuberculosis cases,  (HIV-positive cases)",2020,31000
+"Number of incident tuberculosis cases,  (HIV-positive cases)",2021,32000
+"Number of incident tuberculosis cases,  (HIV-positive cases)",2000,95000
+"Number of incident tuberculosis cases,  (HIV-positive cases)",2001,99000
+"Number of incident tuberculosis cases,  (HIV-positive cases)",2002,100000
+"Number of incident tuberculosis cases,  (HIV-positive cases)",2003,111000
+"Number of incident tuberculosis cases,  (HIV-positive cases)",2004,114000
+"Number of incident tuberculosis cases,  (HIV-positive cases)",2005,116000
+"Number of incident tuberculosis cases,  (HIV-positive cases)",2006,124000
+"Number of incident tuberculosis cases,  (HIV-positive cases)",2007,112000
+"Number of incident tuberculosis cases,  (HIV-positive cases)",2008,100000
+"Number of incident tuberculosis cases,  (HIV-positive cases)",2009,100000
+"Number of incident tuberculosis cases,  (HIV-positive cases)",2010,90000
+"Number of incident tuberculosis cases,  (HIV-positive cases)",2011,85000
+"Number of incident tuberculosis cases,  (HIV-positive cases)",2012,78000
+"Number of incident tuberculosis cases,  (HIV-positive cases)",2013,74000
+"Number of incident tuberculosis cases,  (HIV-positive cases)",2014,69000
+Tuberculosis treatment coverage,2015,46
+Tuberculosis treatment coverage,2016,46
+Tuberculosis treatment coverage,2017,54
+Tuberculosis treatment coverage,2018,65
+Tuberculosis treatment coverage,2019,62
+Tuberculosis treatment coverage,2020,55
+Tuberculosis treatment coverage,2021,57
+Tuberculosis treatment coverage,2000,46
+Tuberculosis treatment coverage,2001,46
+Tuberculosis treatment coverage,2002,46
+Tuberculosis treatment coverage,2003,46
+Tuberculosis treatment coverage,2004,46
+Tuberculosis treatment coverage,2005,45
+Tuberculosis treatment coverage,2006,45
+Tuberculosis treatment coverage,2007,45
+Tuberculosis treatment coverage,2008,45
+Tuberculosis treatment coverage,2009,45
+Tuberculosis treatment coverage,2010,45
+Tuberculosis treatment coverage,2011,45
+Tuberculosis treatment coverage,2012,45
+Tuberculosis treatment coverage,2013,45
+Tuberculosis treatment coverage,2014,45
+Number of incident tuberculosis cases in children aged 0 - 14,2021,16000
+Tuberculosis - new and relapse cases,2000,64159
+Tuberculosis - new and relapse cases,2001,73017
+Tuberculosis - new and relapse cases,2002,80183
+Tuberculosis - new and relapse cases,2003,94183
+Tuberculosis - new and relapse cases,2004,100573
+Tuberculosis - new and relapse cases,2005,102680
+Tuberculosis - new and relapse cases,2006,108342
+Tuberculosis - new and relapse cases,2007,106438
+Tuberculosis - new and relapse cases,2008,99941
+Tuberculosis - new and relapse cases,2009,102997
+Tuberculosis - new and relapse cases,2010,99272
+Tuberculosis - new and relapse cases,2011,97320
+Tuberculosis - new and relapse cases,2012,92987
+Tuberculosis - new and relapse cases,2013,89796
+Tuberculosis - new and relapse cases,2014,88025
+Tuberculosis - new and relapse cases,2015,81292
+Tuberculosis - new and relapse cases,2016,76335
+Tuberculosis - new and relapse cases,2017,83599
+Tuberculosis - new and relapse cases,2018,94534
+Tuberculosis - new and relapse cases,2019,84345
+Tuberculosis - new and relapse cases,2020,71060
+Tuberculosis - new and relapse cases,2021,76010
+"New or unknown treatment history cases: Pulmonary, bacteriologically confirmed",2013,34686
+"New or unknown treatment history cases: Pulmonary, bacteriologically confirmed",2014,34997
+"New or unknown treatment history cases: Pulmonary, bacteriologically confirmed",2015,36817
+"New or unknown treatment history cases: Pulmonary, bacteriologically confirmed",2016,40934
+"New or unknown treatment history cases: Pulmonary, bacteriologically confirmed",2017,44365
+"New or unknown treatment history cases: Pulmonary, bacteriologically confirmed",2018,44090
+"New or unknown treatment history cases: Pulmonary, bacteriologically confirmed",2019,43565
+"New or unknown treatment history cases: Pulmonary, bacteriologically confirmed",2020,38402
+"New or unknown treatment history cases: Pulmonary, bacteriologically confirmed",2021,39351
+"New cases: Pulmonary, smear-positive",2000,28773
+"New cases: Pulmonary, smear-positive",2001,31307
+"New cases: Pulmonary, smear-positive",2002,34337
+"New cases: Pulmonary, smear-positive",2003,38158
+"New cases: Pulmonary, smear-positive",2004,41167
+"New cases: Pulmonary, smear-positive",2005,40389
+"New cases: Pulmonary, smear-positive",2006,39154
+"New cases: Pulmonary, smear-positive",2007,38360
+"New cases: Pulmonary, smear-positive",2008,36811
+"New cases: Pulmonary, smear-positive",2009,37402
+"New cases: Pulmonary, smear-positive",2010,36260
+"New cases: Pulmonary, smear-positive",2011,37085
+"New cases: Pulmonary, smear-positive",2012,36937
+"New or unknown treatment history cases: Pulmonary, clinically diagnosed",2013,32153
+"New or unknown treatment history cases: Pulmonary, clinically diagnosed",2014,30872
+"New or unknown treatment history cases: Pulmonary, clinically diagnosed",2015,24234
+"New or unknown treatment history cases: Pulmonary, clinically diagnosed",2016,17730
+"New or unknown treatment history cases: Pulmonary, clinically diagnosed",2017,22182
+"New or unknown treatment history cases: Pulmonary, clinically diagnosed",2018,31857
+"New or unknown treatment history cases: Pulmonary, clinically diagnosed",2019,24351
+"New or unknown treatment history cases: Pulmonary, clinically diagnosed",2020,18558
+"New or unknown treatment history cases: Pulmonary, clinically diagnosed",2021,22629
+New cases: extrapulmonary,2000,9118
+New cases: extrapulmonary,2001,10723
+New cases: extrapulmonary,2002,11578
+New cases: extrapulmonary,2003,13403
+New cases: extrapulmonary,2004,14949
+New cases: extrapulmonary,2005,15265
+New cases: extrapulmonary,2006,17443
+New cases: extrapulmonary,2007,18032
+New cases: extrapulmonary,2008,16881
+New cases: extrapulmonary,2009,17438
+New cases: extrapulmonary,2010,17382
+New cases: extrapulmonary,2011,17069
+New cases: extrapulmonary,2012,15934
+New cases: extrapulmonary,2013,14478
+New cases: extrapulmonary,2014,14640
+New cases: extrapulmonary,2015,13690
+New cases: extrapulmonary,2016,12672
+New cases: extrapulmonary,2017,13011
+New cases: extrapulmonary,2018,13338
+New cases: extrapulmonary,2019,11724
+New cases: extrapulmonary,2020,9791
+New cases: extrapulmonary,2021,9606
+"Relapse cases: Pulmonary, bacteriologically confirmed",2013,4632
+"Relapse cases: Pulmonary, bacteriologically confirmed",2014,3569
+"Relapse cases: Pulmonary, bacteriologically confirmed",2015,2949
+"Relapse cases: Pulmonary, bacteriologically confirmed",2016,3280
+"Relapse cases: Pulmonary, bacteriologically confirmed",2017,2510
+"Relapse cases: Pulmonary, bacteriologically confirmed",2018,2949
+"Relapse cases: Pulmonary, bacteriologically confirmed",2019,2974
+"Relapse cases: Pulmonary, bacteriologically confirmed",2020,2980
+"Relapse cases: Pulmonary, bacteriologically confirmed",2021,2648
+"Relapse cases: Pulmonary, clinically diagnosed",2013,3847
+"Relapse cases: Pulmonary, clinically diagnosed",2014,2947
+"Relapse cases: Pulmonary, clinically diagnosed",2015,2884
+"Relapse cases: Pulmonary, clinically diagnosed",2016,1199
+"Relapse cases: Pulmonary, clinically diagnosed",2017,1189
+"Relapse cases: Pulmonary, clinically diagnosed",2018,1895
+"Relapse cases: Pulmonary, clinically diagnosed",2019,1425
+"Relapse cases: Pulmonary, clinically diagnosed",2020,1077
+"Relapse cases: Pulmonary, clinically diagnosed",2021,1525
+Relapse cases: extrapulmonary,2013,0
+Relapse cases: extrapulmonary,2014,1000
+Relapse cases: extrapulmonary,2015,718
+Relapse cases: extrapulmonary,2016,520
+Relapse cases: extrapulmonary,2017,342
+Relapse cases: extrapulmonary,2018,405
+Relapse cases: extrapulmonary,2019,306
+Relapse cases: extrapulmonary,2020,252
+Relapse cases: extrapulmonary,2021,251
+Relapse cases (pre-2013 definition),2000,1773
+Relapse cases (pre-2013 definition),2001,2294
+Relapse cases (pre-2013 definition),2002,2503
+Relapse cases (pre-2013 definition),2003,2826
+Relapse cases (pre-2013 definition),2004,3237
+Relapse cases (pre-2013 definition),2005,3254
+Relapse cases (pre-2013 definition),2006,3407
+Relapse cases (pre-2013 definition),2007,177
+Relapse cases (pre-2013 definition),2008,134
+Relapse cases (pre-2013 definition),2009,3643
+Relapse cases (pre-2013 definition),2010,3668
+Relapse cases (pre-2013 definition),2011,3356
+Relapse cases (pre-2013 definition),2012,3419
+"Previously treated  cases, excluding relapse",2000,704
+"Previously treated  cases, excluding relapse",2001,1192
+"Previously treated  cases, excluding relapse",2002,1931
+"Previously treated  cases, excluding relapse",2003,1127
+"Previously treated  cases, excluding relapse",2004,5245
+"Previously treated  cases, excluding relapse",2005,5721
+"Previously treated  cases, excluding relapse",2006,6892
+"Previously treated  cases, excluding relapse",2007,10285
+"Previously treated  cases, excluding relapse",2008,10310
+"Previously treated  cases, excluding relapse",2009,7068
+"Previously treated  cases, excluding relapse",2010,6811
+"Previously treated  cases, excluding relapse",2011,6661
+"Previously treated  cases, excluding relapse",2012,6162
+"Previously treated  cases, excluding relapse",2014,1269
+"Previously treated  cases, excluding relapse",2015,226
+"Previously treated  cases, excluding relapse",2016,1041
+"Previously treated  cases, excluding relapse",2017,1589
+"Previously treated  cases, excluding relapse",2018,1944
+"Previously treated  cases, excluding relapse",2019,2040
+"Previously treated  cases, excluding relapse",2020,1599
+"Previously treated  cases, excluding relapse",2021,1844
+Treatment history unknown,2003,2661
+Treatment history unknown,2007,0
+Treatment history unknown,2008,0
+Treatment history unknown,2010,0
+Treatment history unknown,2011,0
+Treatment history unknown,2012,0
+"New cases: Pulmonary, smear-negative/unknown/not done and other new cases",2000,24143
+"New cases: Pulmonary, smear-negative/unknown/not done and other new cases",2001,28097
+"New cases: Pulmonary, smear-negative/unknown/not done and other new cases",2002,31765
+"New cases: Pulmonary, smear-negative/unknown/not done and other new cases",2003,37135
+"New cases: Pulmonary, smear-negative/unknown/not done and other new cases",2004,41220
+"New cases: Pulmonary, smear-negative/unknown/not done and other new cases",2005,43772
+"New cases: Pulmonary, smear-negative/unknown/not done and other new cases",2006,48338
+"New cases: Pulmonary, smear-negative/unknown/not done and other new cases",2007,49869
+"New cases: Pulmonary, smear-negative/unknown/not done and other new cases",2008,46115
+"New cases: Pulmonary, smear-negative/unknown/not done and other new cases",2009,44514
+"New cases: Pulmonary, smear-negative/unknown/not done and other new cases",2010,41962
+"New cases: Pulmonary, smear-negative/unknown/not done and other new cases",2011,39810
+"New cases: Pulmonary, smear-negative/unknown/not done and other new cases",2012,36697
