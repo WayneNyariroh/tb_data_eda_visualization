@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@6"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@6.4.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@7"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300, "stroke": null}}, "layer": [{"mark": {"type": "line"}, "encoding": {"color": {"field": "Entity", "legend": null, "scale": {"scheme": "greys"}, "type": "nominal"}, "opacity": {"value": 0.8}, "x": {"field": "Year", "title": "", "type": "ordinal"}, "y": {"axis": {"tickCount": 4}, "field": "TB Deaths", "title": "number of deaths", "type": "quantitative"}}}, {"mark": {"type": "text", "align": "left", "baseline": "middle", "dx": 10, "dy": 0, "fontWeight": "bold"}, "encoding": {"color": {"field": "Entity", "legend": null, "scale": {"scheme": "greys"}, "type": "nominal"}, "opacity": {"value": 0.8}, "text": {"field": "Entity", "type": "nominal"}, "x": {"field": "Year", "title": "", "type": "ordinal"}, "y": {"axis": {"tickCount": 4}, "field": "TB Deaths", "title": "number of deaths", "type": "quantitative"}}}], "data": {"name": "data-c08cdf1ddd870c062c775d9529b306c5"}, "height": 500, "width": {"step": 300}, "$schema": "https://vega.github.io/schema/vega-lite/v6.4.1.json", "datasets": {"data-c08cdf1ddd870c062c775d9529b306c5": [{"Entity": "Djibouti", "Year": 1990, "TB Deaths": 265}, {"Entity": "Djibouti", "Year": 2019, "TB Deaths": 437}, {"Entity": "Kenya", "Year": 1990, "TB Deaths": 9991}, {"Entity": "Kenya", "Year": 2019, "TB Deaths": 16781}, {"Entity": "Rwanda", "Year": 1990, "TB Deaths": 10100}, {"Entity": "Rwanda", "Year": 2019, "TB Deaths": 3960}, {"Entity": "South Sudan", "Year": 1990, "TB Deaths": 4638}, {"Entity": "South Sudan", "Year": 2019, "TB Deaths": 4387}, {"Entity": "Sudan", "Year": 1990, "TB Deaths": 2970}, {"Entity": "Sudan", "Year": 2019, "TB Deaths": 1110}, {"Entity": "Tanzania", "Year": 1990, "TB Deaths": 19959}, {"Entity": "Tanzania", "Year": 2019, "TB Deaths": 20170}, {"Entity": "Uganda", "Year": 1990, "TB Deaths": 13319}, {"Entity": "Uganda", "Year": 2019, "TB Deaths": 13886}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
